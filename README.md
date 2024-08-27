@@ -3,11 +3,7 @@ Amorama is a react native app created to battle lonliness and depression in the 
 
 
 
-![image1](https://github.com/user-attachments/assets/cc072aad-de3d-496f-8052-8b87345bc921)
-
-
-
-![image2](https://github.com/user-attachments/assets/c1dc7c79-2c8b-41a6-8c20-bb69c93f9f8c)
+![image1](https://github.com/user-attachments/assets/cc072aad-de3d-496f-8052-8b87345bc921) ![image2](https://github.com/user-attachments/assets/c1dc7c79-2c8b-41a6-8c20-bb69c93f9f8c)
 
 
 
